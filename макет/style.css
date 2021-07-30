@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1c1b1f;
+}
+
+.content {
+display: flex;
+flex-flow: row;
+padding-top: 100px;
+justify-content: space-around;
+align-items: center;
+}
+
+.card {
+width: 361px;
+height: 441px;
+background-color: white;
+box-shadow: 0.1em 0.1em 5px #1c1b1f;
+border-radius: 3px;
+}
+
+.sub-gold {
+height: 500px;
+}
+
+.text {
+text-align: center;
+}
+
+.steam {
+
+}
+
+.bean {
+opacity: 20%;
+}
+
+.cup {
+margin-top: 20px;
+padding-left: 35px;
+}
+
+h1 {
+text-align: center;
+padding: 42px;
+color: #02995B;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+    
